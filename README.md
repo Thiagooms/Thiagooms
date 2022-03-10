@@ -1,4 +1,4 @@
-## Olá guys! Meu nome é Thiago 👩‍💻
+## Olá! Me chamo Thiago 👩‍💻
  💻 Desenvolvedor Front-end<br/>
  🌱 Atualmente estou estudando JavaScript, HTML5 e CSS3<br/> 
  🎓 Atualmente estou cursando - Ciências da computação

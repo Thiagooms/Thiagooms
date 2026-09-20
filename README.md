@@ -1,4 +1,4 @@
-`Software Developer` · `Real-world Market Experience` · `Computer Science Undergraduate`
+`Software Developer` · `Real software development experience` · `Computer Science Undergraduate`
 
 Bachelor of Computer Science, Java Developer (Spring), Technology and Artificial Intelligence Enthusiast.
 
